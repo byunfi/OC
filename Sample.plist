@@ -492,7 +492,8 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array/>
+		<array>
+		</array>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleBehaviourOs</key>
@@ -664,7 +665,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02VT2YFHX87</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>03000200-0400-0500-0006-000700080009</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -684,6 +685,7 @@
 			<string>ApfsDriverLoader.efi</string>
 			<string>FwRuntimeServices.efi</string>
 			<string>VirtualSmc.efi</string>
+			<string>VBoxHfs.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
